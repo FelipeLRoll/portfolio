@@ -3,6 +3,13 @@
 <img src="https://github.com/FelipeLRoll/portifolio/assets/154685092/6e7bc906-62e3-4dbc-90b0-8981e897701b" width="600"/>
 
 ---
+# **QA Portfólio**
+
+
+<img src="https://github.com/FelipeLRoll/portfolio-eng/blob/main/images/qa.jpg" width="400"/>
+
+**[QA Project](https://github.com/FelipeLRoll/qa-project)** 
+
 
 # **AI Portfolio**
 
@@ -12,7 +19,7 @@
 
 **[Default Prediction](https://github.com/FelipeLRoll/previsao-inadimplencia)**  
 
-<img src="https://github.com/FelipeLRoll/previsao-inadimplencia/blob/main/imagens/inadimplencia.jpg" width="600"/>
+<img src="https://github.com/FelipeLRoll/previsao-inadimplencia/blob/main/imagens/inadimplencia.jpg" width="400"/>
 
 - **Description:**
   
@@ -30,7 +37,7 @@
 
 **[Fraud Prevention](https://github.com/FelipeLRoll/prevencao-fraudes)**  
 
-<img src="https://github.com/FelipeLRoll/prevencao-fraudes/blob/main/screenshots/fraude.png" width="600"/>
+<img src="https://github.com/FelipeLRoll/prevencao-fraudes/blob/main/screenshots/fraude.png" width="400"/>
 
 - **Description:**
   
@@ -52,7 +59,7 @@
 
 [![FIAWEC](https://img.shields.io/badge/FIA_WEC-Kaggle_Dataset-blue.svg)](https://www.kaggle.com/datasets/feliperoll/fia-wec-2012-2023-le-mans-2011)
 
-<img src="https://github.com/FelipeLRoll/portfolio/blob/main/images/total-energies-start-fia-w-qe117sun9vmq.png" width="600"/>
+<img src="https://github.com/FelipeLRoll/portfolio/blob/main/images/total-energies-start-fia-w-qe117sun9vmq.png" width="400"/>
 
 - **Description:**
   
@@ -74,7 +81,7 @@
 
 **[DS Salary Prediction with Streamlit](https://github.com/FelipeLRoll/ds-salary-streamlit)**
 
-<img src="https://github.com/FelipeLRoll/portfolio/blob/main/images/salary.png" width="600"/>
+<img src="https://github.com/FelipeLRoll/portfolio/blob/main/images/salary.png" width="400"/>
 
 * There are two versions of this project: one using [Flask](https://github.com/FelipeLRoll/ds_salary) and another using [Streamlit](https://github.com/FelipeLRoll/ds-salary-streamlit). The Streamlit version is more recent and improved, but I decided to keep both.
 
@@ -98,7 +105,7 @@
 
 **[YouTube Channel Analysis](https://github.com/FelipeLRoll/Teste-Youtube/tree/main)**
 
-<img src="https://github.com/FelipeLRoll/portfolio/blob/main/images/Logo_of_YouTube_(2015-2017).svg.png" width="600"/>
+<img src="https://github.com/FelipeLRoll/portfolio/blob/main/images/Logo_of_YouTube_(2015-2017).svg.png" width="400"/>
 
 - **Objectives:**
   
